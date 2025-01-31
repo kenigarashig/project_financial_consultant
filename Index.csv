@@ -1,0 +1,863 @@
+Index,Ticker,Company Name
+S&P 500,MMM,3M Company
+S&P 500,AOS,A. O. Smith Corporation
+S&P 500,ABT,Abbott Laboratories
+S&P 500,ABBV,AbbVie Inc.
+S&P 500,ACN,Accenture plc
+S&P 500,ADBE,Adobe Inc.
+S&P 500,AMD,"Advanced Micro Devices, Inc."
+S&P 500,AES,The AES Corporation
+S&P 500,AFL,Aflac Incorporated
+S&P 500,A,"Agilent Technologies, Inc."
+S&P 500,APD,"Air Products and Chemicals, Inc."
+S&P 500,ABNB,"Airbnb, Inc."
+S&P 500,AKAM,"Akamai Technologies, Inc."
+S&P 500,ALB,Albemarle Corporation
+S&P 500,ARE,"Alexandria Real Estate Equities, Inc."
+S&P 500,ALGN,"Align Technology, Inc."
+S&P 500,ALLE,Allegion plc
+S&P 500,LNT,Alliant Energy Corporation
+S&P 500,ALL,The Allstate Corporation
+S&P 500,GOOGL,Alphabet Inc.
+S&P 500,GOOG,Alphabet Inc.
+S&P 500,MO,"Altria Group, Inc."
+S&P 500,AMZN,"Amazon.com, Inc."
+S&P 500,AMCR,Amcor plc
+S&P 500,AEE,Ameren Corporation
+S&P 500,AEP,"American Electric Power Company, Inc."
+S&P 500,AXP,American Express Company
+S&P 500,AIG,"American International Group, Inc."
+S&P 500,AMT,American Tower Corporation
+S&P 500,AWK,"American Water Works Company, Inc."
+S&P 500,AMP,"Ameriprise Financial, Inc."
+S&P 500,AME,"AMETEK, Inc."
+S&P 500,AMGN,Amgen Inc.
+S&P 500,APH,Amphenol Corporation
+S&P 500,ADI,"Analog Devices, Inc."
+S&P 500,ANSS,"ANSYS, Inc."
+S&P 500,AON,Aon plc
+S&P 500,APA,APA Corporation
+S&P 500,APO,"Apollo Global Management, Inc."
+S&P 500,AAPL,Apple Inc.
+S&P 500,AMAT,"Applied Materials, Inc."
+S&P 500,APTV,Aptiv PLC
+S&P 500,ACGL,Arch Capital Group Ltd.
+S&P 500,ADM,Archer-Daniels-Midland Company
+S&P 500,ANET,Arista Networks Inc
+S&P 500,AJG,Arthur J. Gallagher & Co.
+S&P 500,AIZ,"Assurant, Inc."
+S&P 500,T,AT&T Inc.
+S&P 500,ATO,Atmos Energy Corporation
+S&P 500,ADSK,"Autodesk, Inc."
+S&P 500,ADP,"Automatic Data Processing, Inc."
+S&P 500,AZO,"AutoZone, Inc."
+S&P 500,AVB,"AvalonBay Communities, Inc."
+S&P 500,AVY,Avery Dennison Corporation
+S&P 500,AXON,"Axon Enterprise, Inc."
+S&P 500,BKR,Baker Hughes Company
+S&P 500,BALL,Ball Corporation
+S&P 500,BAC,Bank of America Corporation
+S&P 500,BAX,Baxter International Inc.
+S&P 500,BDX,"Becton, Dickinson and Company"
+S&P 500,BRK.B,N/A
+S&P 500,BBY,"Best Buy Co., Inc."
+S&P 500,TECH,Bio-Techne Corporation
+S&P 500,BIIB,Biogen Inc.
+S&P 500,BLK,"BlackRock, Inc."
+S&P 500,BX,Blackstone Inc.
+S&P 500,BK,The Bank of New York Mellon Corporation
+S&P 500,BA,The Boeing Company
+S&P 500,BKNG,Booking Holdings Inc.
+S&P 500,BWA,BorgWarner Inc.
+S&P 500,BSX,Boston Scientific Corporation
+S&P 500,BMY,Bristol-Myers Squibb Company
+S&P 500,AVGO,Broadcom Inc.
+S&P 500,BR,"Broadridge Financial Solutions, Inc."
+S&P 500,BRO,"Brown & Brown, Inc."
+S&P 500,BF.B,N/A
+S&P 500,BLDR,"Builders FirstSource, Inc."
+S&P 500,BG,Bunge Global SA
+S&P 500,BXP,"BXP, Inc."
+S&P 500,CHRW,"C.H. Robinson Worldwide, Inc."
+S&P 500,CDNS,"Cadence Design Systems, Inc."
+S&P 500,CZR,"Caesars Entertainment, Inc."
+S&P 500,CPT,Camden Property Trust
+S&P 500,CPB,The Campbell's Company
+S&P 500,COF,Capital One Financial Corporation
+S&P 500,CAH,"Cardinal Health, Inc."
+S&P 500,KMX,"CarMax, Inc."
+S&P 500,CCL,Carnival Corporation & plc
+S&P 500,CARR,Carrier Global Corporation
+S&P 500,CAT,Caterpillar Inc.
+S&P 500,CBOE,"Cboe Global Markets, Inc."
+S&P 500,CBRE,"CBRE Group, Inc."
+S&P 500,CDW,CDW Corporation
+S&P 500,CE,Celanese Corporation
+S&P 500,COR,"Cencora, Inc."
+S&P 500,CNC,Centene Corporation
+S&P 500,CNP,"CenterPoint Energy, Inc."
+S&P 500,CF,"CF Industries Holdings, Inc."
+S&P 500,CRL,"Charles River Laboratories International, Inc."
+S&P 500,SCHW,The Charles Schwab Corporation
+S&P 500,CHTR,"Charter Communications, Inc."
+S&P 500,CVX,Chevron Corporation
+S&P 500,CMG,"Chipotle Mexican Grill, Inc."
+S&P 500,CB,Chubb Limited
+S&P 500,CHD,"Church & Dwight Co., Inc."
+S&P 500,CI,The Cigna Group
+S&P 500,CINF,Cincinnati Financial Corporation
+S&P 500,CTAS,Cintas Corporation
+S&P 500,CSCO,"Cisco Systems, Inc."
+S&P 500,C,Citigroup Inc.
+S&P 500,CFG,"Citizens Financial Group, Inc."
+S&P 500,CLX,The Clorox Company
+S&P 500,CME,CME Group Inc.
+S&P 500,CMS,CMS Energy Corporation
+S&P 500,KO,The Coca-Cola Company
+S&P 500,CTSH,Cognizant Technology Solutions Corporation
+S&P 500,CL,Colgate-Palmolive Company
+S&P 500,CMCSA,Comcast Corporation
+S&P 500,CAG,"Conagra Brands, Inc."
+S&P 500,COP,ConocoPhillips
+S&P 500,ED,"Consolidated Edison, Inc."
+S&P 500,STZ,"Constellation Brands, Inc."
+S&P 500,CEG,Constellation Energy Corporation
+S&P 500,COO,"The Cooper Companies, Inc."
+S&P 500,CPRT,"Copart, Inc."
+S&P 500,GLW,Corning Incorporated
+S&P 500,CPAY,"Corpay, Inc."
+S&P 500,CTVA,"Corteva, Inc."
+S&P 500,CSGP,"CoStar Group, Inc."
+S&P 500,COST,Costco Wholesale Corporation
+S&P 500,CTRA,Coterra Energy Inc.
+S&P 500,CRWD,"CrowdStrike Holdings, Inc."
+S&P 500,CCI,Crown Castle Inc.
+S&P 500,CSX,CSX Corporation
+S&P 500,CMI,Cummins Inc.
+S&P 500,CVS,CVS Health Corporation
+S&P 500,DHR,Danaher Corporation
+S&P 500,DRI,"Darden Restaurants, Inc."
+S&P 500,DVA,DaVita Inc.
+S&P 500,DAY,Dayforce Inc
+S&P 500,DECK,Deckers Outdoor Corporation
+S&P 500,DE,Deere & Company
+S&P 500,DELL,Dell Technologies Inc.
+S&P 500,DAL,"Delta Air Lines, Inc."
+S&P 500,DVN,Devon Energy Corporation
+S&P 500,DXCM,"DexCom, Inc."
+S&P 500,FANG,"Diamondback Energy, Inc."
+S&P 500,DLR,"Digital Realty Trust, Inc."
+S&P 500,DFS,Discover Financial Services
+S&P 500,DG,Dollar General Corporation
+S&P 500,DLTR,"Dollar Tree, Inc."
+S&P 500,D,"Dominion Energy, Inc."
+S&P 500,DPZ,"Domino's Pizza, Inc."
+S&P 500,DOV,Dover Corporation
+S&P 500,DOW,Dow Inc.
+S&P 500,DHI,"D.R. Horton, Inc."
+S&P 500,DTE,DTE Energy Company
+S&P 500,DUK,Duke Energy Corporation
+S&P 500,DD,"DuPont de Nemours, Inc."
+S&P 500,EMN,Eastman Chemical Company
+S&P 500,ETN,Eaton Corporation plc
+S&P 500,EBAY,eBay Inc.
+S&P 500,ECL,Ecolab Inc.
+S&P 500,EIX,Edison International
+S&P 500,EW,Edwards Lifesciences Corporation
+S&P 500,EA,Electronic Arts Inc.
+S&P 500,ELV,"Elevance Health, Inc."
+S&P 500,EMR,Emerson Electric Co.
+S&P 500,ENPH,"Enphase Energy, Inc."
+S&P 500,ETR,Entergy Corporation
+S&P 500,EOG,"EOG Resources, Inc."
+S&P 500,EPAM,"EPAM Systems, Inc."
+S&P 500,EQT,EQT Corporation
+S&P 500,EFX,Equifax Inc.
+S&P 500,EQIX,"Equinix, Inc."
+S&P 500,EQR,Equity Residential
+S&P 500,ERIE,Erie Indemnity Company
+S&P 500,ESS,"Essex Property Trust, Inc."
+S&P 500,EL,The Estée Lauder Companies Inc.
+S&P 500,EG,"Everest Group, Ltd."
+S&P 500,EVRG,"Evergy, Inc."
+S&P 500,ES,Eversource Energy
+S&P 500,EXC,Exelon Corporation
+S&P 500,EXPE,"Expedia Group, Inc."
+S&P 500,EXPD,"Expeditors International of Washington, Inc."
+S&P 500,EXR,Extra Space Storage Inc.
+S&P 500,XOM,Exxon Mobil Corporation
+S&P 500,FFIV,"F5, Inc."
+S&P 500,FDS,FactSet Research Systems Inc.
+S&P 500,FICO,Fair Isaac Corporation
+S&P 500,FAST,Fastenal Company
+S&P 500,FRT,Federal Realty Investment Trust
+S&P 500,FDX,FedEx Corporation
+S&P 500,FIS,"Fidelity National Information Services, Inc."
+S&P 500,FITB,Fifth Third Bancorp
+S&P 500,FSLR,"First Solar, Inc."
+S&P 500,FE,FirstEnergy Corp.
+S&P 500,FI,"Fiserv, Inc."
+S&P 500,FMC,FMC Corporation
+S&P 500,F,Ford Motor Company
+S&P 500,FTNT,"Fortinet, Inc."
+S&P 500,FTV,Fortive Corporation
+S&P 500,FOXA,Fox Corporation
+S&P 500,FOX,Fox Corporation
+S&P 500,BEN,"Franklin Resources, Inc."
+S&P 500,FCX,Freeport-McMoRan Inc.
+S&P 500,GRMN,Garmin Ltd.
+S&P 500,IT,"Gartner, Inc."
+S&P 500,GE,GE Aerospace
+S&P 500,GEHC,GE HealthCare Technologies Inc.
+S&P 500,GEV,GE Vernova Inc.
+S&P 500,GEN,Gen Digital Inc.
+S&P 500,GNRC,Generac Holdings Inc.
+S&P 500,GD,General Dynamics Corporation
+S&P 500,GIS,"General Mills, Inc."
+S&P 500,GM,General Motors Company
+S&P 500,GPC,Genuine Parts Company
+S&P 500,GILD,"Gilead Sciences, Inc."
+S&P 500,GPN,Global Payments Inc.
+S&P 500,GL,Globe Life Inc.
+S&P 500,GDDY,GoDaddy Inc.
+S&P 500,GS,"The Goldman Sachs Group, Inc."
+S&P 500,HAL,Halliburton Company
+S&P 500,HIG,"The Hartford Financial Services Group, Inc."
+S&P 500,HAS,"Hasbro, Inc."
+S&P 500,HCA,"HCA Healthcare, Inc."
+S&P 500,DOC,"Healthpeak Properties, Inc."
+S&P 500,HSIC,"Henry Schein, Inc."
+S&P 500,HSY,The Hershey Company
+S&P 500,HES,Hess Corporation
+S&P 500,HPE,Hewlett Packard Enterprise Company
+S&P 500,HLT,Hilton Worldwide Holdings Inc.
+S&P 500,HOLX,"Hologic, Inc."
+S&P 500,HD,"The Home Depot, Inc."
+S&P 500,HON,Honeywell International Inc.
+S&P 500,HRL,Hormel Foods Corporation
+S&P 500,HST,"Host Hotels & Resorts, Inc."
+S&P 500,HWM,Howmet Aerospace Inc.
+S&P 500,HPQ,HP Inc.
+S&P 500,HUBB,Hubbell Incorporated
+S&P 500,HUM,Humana Inc.
+S&P 500,HBAN,Huntington Bancshares Incorporated
+S&P 500,HII,"Huntington Ingalls Industries, Inc."
+S&P 500,IBM,International Business Machines Corporation
+S&P 500,IEX,IDEX Corporation
+S&P 500,IDXX,"IDEXX Laboratories, Inc."
+S&P 500,ITW,Illinois Tool Works Inc.
+S&P 500,INCY,Incyte Corporation
+S&P 500,IR,Ingersoll Rand Inc.
+S&P 500,PODD,Insulet Corporation
+S&P 500,INTC,Intel Corporation
+S&P 500,ICE,"Intercontinental Exchange, Inc."
+S&P 500,IFF,International Flavors & Fragrances Inc.
+S&P 500,IP,International Paper Company
+S&P 500,IPG,"The Interpublic Group of Companies, Inc."
+S&P 500,INTU,Intuit Inc.
+S&P 500,ISRG,"Intuitive Surgical, Inc."
+S&P 500,IVZ,Invesco Ltd.
+S&P 500,INVH,Invitation Homes Inc.
+S&P 500,IQV,IQVIA Holdings Inc.
+S&P 500,IRM,Iron Mountain Incorporated
+S&P 500,JBHT,"J.B. Hunt Transport Services, Inc."
+S&P 500,JBL,Jabil Inc.
+S&P 500,JKHY,"Jack Henry & Associates, Inc."
+S&P 500,J,Jacobs Solutions Inc.
+S&P 500,JNJ,Johnson & Johnson
+S&P 500,JCI,Johnson Controls International plc
+S&P 500,JPM,JPMorgan Chase & Co.
+S&P 500,JNPR,"Juniper Networks, Inc."
+S&P 500,K,Kellanova
+S&P 500,KVUE,Kenvue Inc.
+S&P 500,KDP,Keurig Dr Pepper Inc.
+S&P 500,KEY,KeyCorp
+S&P 500,KEYS,"Keysight Technologies, Inc."
+S&P 500,KMB,Kimberly-Clark Corporation
+S&P 500,KIM,Kimco Realty Corporation
+S&P 500,KMI,"Kinder Morgan, Inc."
+S&P 500,KKR,KKR & Co. Inc.
+S&P 500,KLAC,KLA Corporation
+S&P 500,KHC,The Kraft Heinz Company
+S&P 500,KR,The Kroger Co.
+S&P 500,LHX,"L3Harris Technologies, Inc."
+S&P 500,LH,Labcorp Holdings Inc.
+S&P 500,LRCX,Lam Research Corporation
+S&P 500,LW,"Lamb Weston Holdings, Inc."
+S&P 500,LVS,Las Vegas Sands Corp.
+S&P 500,LDOS,"Leidos Holdings, Inc."
+S&P 500,LEN,Lennar Corporation
+S&P 500,LII,Lennox International Inc.
+S&P 500,LLY,Eli Lilly and Company
+S&P 500,LIN,Linde plc
+S&P 500,LYV,"Live Nation Entertainment, Inc."
+S&P 500,LKQ,LKQ Corporation
+S&P 500,LMT,Lockheed Martin Corporation
+S&P 500,L,Loews Corporation
+S&P 500,LOW,"Lowe's Companies, Inc."
+S&P 500,LULU,Lululemon Athletica Inc.
+S&P 500,LYB,LyondellBasell Industries N.V.
+S&P 500,MTB,M&T Bank Corporation
+S&P 500,MPC,Marathon Petroleum Corporation
+S&P 500,MKTX,MarketAxess Holdings Inc.
+S&P 500,MAR,"Marriott International, Inc."
+S&P 500,MMC,"Marsh & McLennan Companies, Inc."
+S&P 500,MLM,"Martin Marietta Materials, Inc."
+S&P 500,MAS,Masco Corporation
+S&P 500,MA,Mastercard Incorporated
+S&P 500,MTCH,"Match Group, Inc."
+S&P 500,MKC,"McCormick & Company, Incorporated"
+S&P 500,MCD,McDonald's Corporation
+S&P 500,MCK,McKesson Corporation
+S&P 500,MDT,Medtronic plc
+S&P 500,MRK,"Merck & Co., Inc."
+S&P 500,META,"Meta Platforms, Inc."
+S&P 500,MET,"MetLife, Inc."
+S&P 500,MTD,Mettler-Toledo International Inc.
+S&P 500,MGM,MGM Resorts International
+S&P 500,MCHP,Microchip Technology Incorporated
+S&P 500,MU,"Micron Technology, Inc."
+S&P 500,MSFT,Microsoft Corporation
+S&P 500,MAA,"Mid-America Apartment Communities, Inc."
+S&P 500,MRNA,"Moderna, Inc."
+S&P 500,MHK,"Mohawk Industries, Inc."
+S&P 500,MOH,"Molina Healthcare, Inc."
+S&P 500,TAP,Molson Coors Beverage Company
+S&P 500,MDLZ,"Mondelez International, Inc."
+S&P 500,MPWR,"Monolithic Power Systems, Inc."
+S&P 500,MNST,Monster Beverage Corporation
+S&P 500,MCO,Moody's Corporation
+S&P 500,MS,Morgan Stanley
+S&P 500,MOS,The Mosaic Company
+S&P 500,MSI,"Motorola Solutions, Inc."
+S&P 500,MSCI,MSCI Inc.
+S&P 500,NDAQ,"Nasdaq, Inc."
+S&P 500,NTAP,"NetApp, Inc."
+S&P 500,NFLX,"Netflix, Inc."
+S&P 500,NEM,Newmont Corporation
+S&P 500,NWSA,News Corporation
+S&P 500,NWS,News Corporation
+S&P 500,NEE,"NextEra Energy, Inc."
+S&P 500,NKE,"NIKE, Inc."
+S&P 500,NI,NiSource Inc.
+S&P 500,NDSN,Nordson Corporation
+S&P 500,NSC,Norfolk Southern Corporation
+S&P 500,NTRS,Northern Trust Corporation
+S&P 500,NOC,Northrop Grumman Corporation
+S&P 500,NCLH,Norwegian Cruise Line Holdings Ltd.
+S&P 500,NRG,"NRG Energy, Inc."
+S&P 500,NUE,Nucor Corporation
+S&P 500,NVDA,NVIDIA Corporation
+S&P 500,NVR,"NVR, Inc."
+S&P 500,NXPI,NXP Semiconductors N.V.
+S&P 500,ORLY,"O'Reilly Automotive, Inc."
+S&P 500,OXY,Occidental Petroleum Corporation
+S&P 500,ODFL,"Old Dominion Freight Line, Inc."
+S&P 500,OMC,Omnicom Group Inc.
+S&P 500,ON,ON Semiconductor Corporation
+S&P 500,OKE,"ONEOK, Inc."
+S&P 500,ORCL,Oracle Corporation
+S&P 500,OTIS,Otis Worldwide Corporation
+S&P 500,PCAR,PACCAR Inc
+S&P 500,PKG,Packaging Corporation of America
+S&P 500,PLTR,Palantir Technologies Inc.
+S&P 500,PANW,"Palo Alto Networks, Inc."
+S&P 500,PARA,Paramount Global
+S&P 500,PH,Parker-Hannifin Corporation
+S&P 500,PAYX,"Paychex, Inc."
+S&P 500,PAYC,"Paycom Software, Inc."
+S&P 500,PYPL,"PayPal Holdings, Inc."
+S&P 500,PNR,Pentair plc
+S&P 500,PEP,"PepsiCo, Inc."
+S&P 500,PFE,Pfizer Inc.
+S&P 500,PCG,PG&E Corporation
+S&P 500,PM,Philip Morris International Inc.
+S&P 500,PSX,Phillips 66
+S&P 500,PNW,Pinnacle West Capital Corporation
+S&P 500,PNC,"The PNC Financial Services Group, Inc."
+S&P 500,POOL,Pool Corporation
+S&P 500,PPG,"PPG Industries, Inc."
+S&P 500,PPL,PPL Corporation
+S&P 500,PFG,"Principal Financial Group, Inc."
+S&P 500,PG,The Procter & Gamble Company
+S&P 500,PGR,The Progressive Corporation
+S&P 500,PLD,"Prologis, Inc."
+S&P 500,PRU,"Prudential Financial, Inc."
+S&P 500,PEG,Public Service Enterprise Group Incorporated
+S&P 500,PTC,PTC Inc.
+S&P 500,PSA,Public Storage
+S&P 500,PHM,"PulteGroup, Inc."
+S&P 500,PWR,"Quanta Services, Inc."
+S&P 500,QCOM,QUALCOMM Incorporated
+S&P 500,DGX,Quest Diagnostics Incorporated
+S&P 500,RL,Ralph Lauren Corporation
+S&P 500,RJF,"Raymond James Financial, Inc."
+S&P 500,RTX,RTX Corporation
+S&P 500,O,Realty Income Corporation
+S&P 500,REG,Regency Centers Corporation
+S&P 500,REGN,"Regeneron Pharmaceuticals, Inc."
+S&P 500,RF,Regions Financial Corporation
+S&P 500,RSG,"Republic Services, Inc."
+S&P 500,RMD,ResMed Inc.
+S&P 500,RVTY,"Revvity, Inc."
+S&P 500,ROK,"Rockwell Automation, Inc."
+S&P 500,ROL,"Rollins, Inc."
+S&P 500,ROP,"Roper Technologies, Inc."
+S&P 500,ROST,"Ross Stores, Inc."
+S&P 500,RCL,Royal Caribbean Cruises Ltd.
+S&P 500,SPGI,S&P Global Inc.
+S&P 500,CRM,"Salesforce, Inc."
+S&P 500,SBAC,SBA Communications Corporation
+S&P 500,SLB,Schlumberger Limited
+S&P 500,STX,Seagate Technology Holdings plc
+S&P 500,SRE,Sempra
+S&P 500,NOW,"ServiceNow, Inc."
+S&P 500,SHW,The Sherwin-Williams Company
+S&P 500,SPG,"Simon Property Group, Inc."
+S&P 500,SWKS,"Skyworks Solutions, Inc."
+S&P 500,SJM,The J. M. Smucker Company
+S&P 500,SW,Smurfit Westrock Plc
+S&P 500,SNA,Snap-on Incorporated
+S&P 500,SOLV,Solventum Corporation
+S&P 500,SO,The Southern Company
+S&P 500,LUV,Southwest Airlines Co.
+S&P 500,SWK,"Stanley Black & Decker, Inc."
+S&P 500,SBUX,Starbucks Corporation
+S&P 500,STT,State Street Corporation
+S&P 500,STLD,"Steel Dynamics, Inc."
+S&P 500,STE,STERIS plc
+S&P 500,SYK,Stryker Corporation
+S&P 500,SMCI,"Super Micro Computer, Inc."
+S&P 500,SYF,Synchrony Financial
+S&P 500,SNPS,"Synopsys, Inc."
+S&P 500,SYY,Sysco Corporation
+S&P 500,TMUS,"T-Mobile US, Inc."
+S&P 500,TROW,"T. Rowe Price Group, Inc."
+S&P 500,TTWO,"Take-Two Interactive Software, Inc."
+S&P 500,TPR,"Tapestry, Inc."
+S&P 500,TRGP,Targa Resources Corp.
+S&P 500,TGT,Target Corporation
+S&P 500,TEL,TE Connectivity plc
+S&P 500,TDY,Teledyne Technologies Incorporated
+S&P 500,TFX,Teleflex Incorporated
+S&P 500,TER,"Teradyne, Inc."
+S&P 500,TSLA,"Tesla, Inc."
+S&P 500,TXN,Texas Instruments Incorporated
+S&P 500,TPL,Texas Pacific Land Corporation
+S&P 500,TXT,Textron Inc.
+S&P 500,TMO,Thermo Fisher Scientific Inc.
+S&P 500,TJX,"The TJX Companies, Inc."
+S&P 500,TSCO,Tractor Supply Company
+S&P 500,TT,Trane Technologies plc
+S&P 500,TDG,TransDigm Group Incorporated
+S&P 500,TRV,"The Travelers Companies, Inc."
+S&P 500,TRMB,Trimble Inc.
+S&P 500,TFC,Truist Financial Corporation
+S&P 500,TYL,"Tyler Technologies, Inc."
+S&P 500,TSN,"Tyson Foods, Inc."
+S&P 500,USB,U.S. Bancorp
+S&P 500,UBER,"Uber Technologies, Inc."
+S&P 500,UDR,"UDR, Inc."
+S&P 500,ULTA,"Ulta Beauty, Inc."
+S&P 500,UNP,Union Pacific Corporation
+S&P 500,UAL,"United Airlines Holdings, Inc."
+S&P 500,UPS,"United Parcel Service, Inc."
+S&P 500,URI,"United Rentals, Inc."
+S&P 500,UNH,UnitedHealth Group Incorporated
+S&P 500,UHS,"Universal Health Services, Inc."
+S&P 500,VLO,Valero Energy Corporation
+S&P 500,VTR,"Ventas, Inc."
+S&P 500,VLTO,Veralto Corporation
+S&P 500,VRSN,"VeriSign, Inc."
+S&P 500,VRSK,"Verisk Analytics, Inc."
+S&P 500,VZ,Verizon Communications Inc.
+S&P 500,VRTX,Vertex Pharmaceuticals Incorporated
+S&P 500,VTRS,Viatris Inc.
+S&P 500,VICI,VICI Properties Inc.
+S&P 500,V,Visa Inc.
+S&P 500,VST,Vistra Corp.
+S&P 500,VMC,Vulcan Materials Company
+S&P 500,WRB,W. R. Berkley Corporation
+S&P 500,GWW,"W.W. Grainger, Inc."
+S&P 500,WAB,Westinghouse Air Brake Technologies Corporation
+S&P 500,WBA,"Walgreens Boots Alliance, Inc."
+S&P 500,WMT,Walmart Inc.
+S&P 500,DIS,The Walt Disney Company
+S&P 500,WBD,"Warner Bros. Discovery, Inc."
+S&P 500,WM,"Waste Management, Inc."
+S&P 500,WAT,Waters Corporation
+S&P 500,WEC,"WEC Energy Group, Inc."
+S&P 500,WFC,Wells Fargo & Company
+S&P 500,WELL,Welltower Inc.
+S&P 500,WST,"West Pharmaceutical Services, Inc."
+S&P 500,WDC,Western Digital Corporation
+S&P 500,WY,Weyerhaeuser Company
+S&P 500,WMB,"The Williams Companies, Inc."
+S&P 500,WTW,Willis Towers Watson Public Limited Company
+S&P 500,WDAY,"Workday, Inc."
+S&P 500,WYNN,"Wynn Resorts, Limited"
+S&P 500,XEL,Xcel Energy Inc.
+S&P 500,XYL,Xylem Inc.
+S&P 500,YUM,"Yum! Brands, Inc."
+S&P 500,ZBRA,Zebra Technologies Corporation
+S&P 500,ZBH,"Zimmer Biomet Holdings, Inc."
+S&P 500,ZTS,Zoetis Inc.
+Hang Seng,0005.HK,HSBC HOLDINGS
+Hang Seng,0011.HK,HANG SENG BANK
+Hang Seng,0388.HK,HKEX
+Hang Seng,0939.HK,CCB
+Hang Seng,1299.HK,AIA
+Hang Seng,1398.HK,ICBC
+Hang Seng,2318.HK,"Ping An Insurance (Group) Company of China, Ltd."
+Hang Seng,2388.HK,BOC Hong Kong (Holdings) Limited
+Hang Seng,2628.HK,China Life Insurance Company Limited
+Hang Seng,3968.HK,"China Merchants Bank Co., Ltd."
+Hang Seng,3988.HK,Bank of China Limited
+Hang Seng,0002.HK,CLP HOLDINGS
+Hang Seng,0003.HK,HK & CHINA GAS
+Hang Seng,0006.HK,POWER ASSETS
+Hang Seng,0836.HK,CHINA RES POWER
+Hang Seng,1038.HK,CKI HOLDINGS
+Hang Seng,2688.HK,ENN Energy Holdings Limited
+Hang Seng,0012.HK,HENDERSON LAND
+Hang Seng,0016.HK,SHK PPT
+Hang Seng,0017.HK,NEW WORLD DEV
+Hang Seng,0101.HK,HANG LUNG PPT
+Hang Seng,0688.HK,CHINA OVERSEAS
+Hang Seng,0823.HK,LINK REIT
+Hang Seng,0960.HK,LONGFOR GROUP
+Hang Seng,1109.HK,CHINA RES LAND
+Hang Seng,1113.HK,CK ASSET
+Hang Seng,1209.HK,CHINA RES MIXC
+Hang Seng,1997.HK,Wharf Real Estate Investment Company Limited
+Hang Seng,6098.HK,Country Garden Services Holdings Company Limited
+Hang Seng,0001.HK,CK Hutchison Holdings Limited
+Hang Seng,0027.HK,GALAXY ENT
+Hang Seng,0066.HK,MTR CORPORATION
+Hang Seng,0175.HK,GEELY AUTO
+Hang Seng,0241.HK,ALI HEALTH
+Hang Seng,0267.HK,CITIC
+Hang Seng,0288.HK,WH GROUP
+Hang Seng,0291.HK,CHINA RES BEER
+Hang Seng,0316.HK,OOIL
+Hang Seng,0322.HK,TINGYI
+Hang Seng,0386.HK,SINOPEC CORP
+Hang Seng,0669.HK,TECHTRONIC IND
+Hang Seng,0700.HK,TENCENT
+Hang Seng,0762.HK,CHINA UNICOM
+Hang Seng,0857.HK,PETROCHINA
+Hang Seng,0868.HK,XINYI GLASS
+Hang Seng,0881.HK,ZHONGSHENG HLDG
+Hang Seng,0883.HK,CNOOC
+Hang Seng,0941.HK,CHINA MOBILE
+Hang Seng,0968.HK,XINYI SOLAR
+Hang Seng,0981.HK,SMIC
+Hang Seng,0992.HK,LENOVO GROUP
+Hang Seng,1044.HK,HENGAN INT'L
+Hang Seng,1088.HK,CHINA SHENHUA
+Hang Seng,1093.HK,CSPC PHARMA
+Hang Seng,1099.HK,SINOPHARM
+Hang Seng,1177.HK,SINO BIOPHARM
+Hang Seng,1211.HK,BYD COMPANY
+Hang Seng,1378.HK,CHINAHONGQIAO
+Hang Seng,1810.HK,XIAOMI-W
+Hang Seng,1876.HK,BUD APAC
+Hang Seng,1928.HK,SANDS CHINA LTD
+Hang Seng,1929.HK,CHOW TAI FOOK
+Hang Seng,2015.HK,Li Auto Inc.
+Hang Seng,2020.HK,ANTA Sports Products Limited
+Hang Seng,2269.HK,WuXi Biologics (Cayman) Inc.
+Hang Seng,2313.HK,Shenzhou International Group Holdings Limited
+Hang Seng,2319.HK,China Mengniu Dairy Company Limited
+Hang Seng,2331.HK,Li Ning Company Limited
+Hang Seng,2359.HK,"WuXi AppTec Co., Ltd."
+Hang Seng,2382.HK,Sunny Optical Technology (Group) Company Limited
+Hang Seng,2899.HK,Zijin Mining Group Company Limited
+Hang Seng,3690.HK,Meituan
+Hang Seng,3692.HK,Hansoh Pharmaceutical Group Company Limited
+Hang Seng,6618.HK,JD Health International Inc.
+Hang Seng,6690.HK,"Haier Smart Home Co., Ltd."
+Hang Seng,6862.HK,Haidilao International Holding Ltd.
+Hang Seng,9618.HK,"JD.com, Inc."
+Hang Seng,9633.HK,"Nongfu Spring Co., Ltd."
+Hang Seng,9888.HK,"Baidu, Inc."
+Hang Seng,9961.HK,Trip.com Group Limited
+Hang Seng,9988.HK,Alibaba Group Holding Limited
+Hang Seng,9999.HK,"NetEase, Inc."
+Nikkei 225,9202.T,ANA Holdings Inc.
+Nikkei 225,9201.T,"Japan Airlines Co., Ltd."
+Nikkei 225,7205.T,"Hino Motors, Ltd."
+Nikkei 225,7267.T,"Honda Motor Co., Ltd."
+Nikkei 225,7202.T,Isuzu Motors Limited
+Nikkei 225,7261.T,Mazda Motor Corporation
+Nikkei 225,7211.T,Mitsubishi Motors Corporation
+Nikkei 225,7201.T,"Nissan Motor Co., Ltd."
+Nikkei 225,7270.T,Subaru Corporation
+Nikkei 225,7269.T,Suzuki Motor Corporation
+Nikkei 225,7203.T,Toyota Motor Corporation
+Nikkei 225,7272.T,"Yamaha Motor Co., Ltd."
+Nikkei 225,8304.T,"Aozora Bank, Ltd."
+Nikkei 225,8331.T,"The Chiba Bank, Ltd."
+Nikkei 225,7186.T,"Concordia Financial Group, Ltd."
+Nikkei 225,8354.T,"Fukuoka Financial Group, Inc."
+Nikkei 225,8306.T,"Mitsubishi UFJ Financial Group, Inc."
+Nikkei 225,8411.T,"Mizuho Financial Group, Inc."
+Nikkei 225,8308.T,"Resona Holdings, Inc."
+Nikkei 225,5831.T,"Shizuoka Financial Group,Inc."
+Nikkei 225,8316.T,"Sumitomo Mitsui Financial Group, Inc."
+Nikkei 225,8309.T,"Sumitomo Mitsui Trust Group, Inc."
+Nikkei 225,3407.T,Asahi Kasei Corporation
+Nikkei 225,4061.T,Denka Company Limited
+Nikkei 225,4631.T,DIC Corporation
+Nikkei 225,4901.T,FUJIFILM Holdings Corporation
+Nikkei 225,4452.T,Kao Corporation
+Nikkei 225,3405.T,"Kuraray Co., Ltd."
+Nikkei 225,4188.T,Mitsubishi Chemical Group Corporation
+Nikkei 225,4183.T,"Mitsui Chemicals, Inc."
+Nikkei 225,4021.T,Nissan Chemical Corporation
+Nikkei 225,6988.T,Nitto Denko Corporation
+Nikkei 225,4004.T,Resonac Holdings Corporation
+Nikkei 225,4063.T,"Shin-Etsu Chemical Co., Ltd."
+Nikkei 225,4911.T,"Shiseido Company, Limited"
+Nikkei 225,4005.T,"Sumitomo Chemical Company, Limited"
+Nikkei 225,4043.T,Tokuyama Corporation
+Nikkei 225,4042.T,Tosoh Corporation
+Nikkei 225,4208.T,UBE Corporation
+Nikkei 225,9433.T,KDDI Corporation
+Nikkei 225,9432.T,Nippon Telegraph and Telephone Corporation
+Nikkei 225,9613.T,NTT DATA Group Corporation
+Nikkei 225,9434.T,SoftBank Corp.
+Nikkei 225,9984.T,SoftBank Group Corp.
+Nikkei 225,1721.T,COMSYS Holdings Corporation
+Nikkei 225,1925.T,"Daiwa House Industry Co., Ltd."
+Nikkei 225,1808.T,HASEKO Corporation
+Nikkei 225,1963.T,JGC Holdings Corporation
+Nikkei 225,1812.T,Kajima Corporation
+Nikkei 225,1802.T,Obayashi Corporation
+Nikkei 225,1928.T,"Sekisui House, Ltd."
+Nikkei 225,1803.T,Shimizu Corporation
+Nikkei 225,1801.T,Taisei Corporation
+Nikkei 225,6857.T,Advantest Corporation
+Nikkei 225,6770.T,"Alps Alpine Co., Ltd."
+Nikkei 225,7751.T,Canon Inc.
+Nikkei 225,6952.T,"Casio Computer Co.,Ltd."
+Nikkei 225,6902.T,DENSO Corporation
+Nikkei 225,6954.T,Fanuc Corporation
+Nikkei 225,6504.T,"Fuji Electric Co., Ltd."
+Nikkei 225,6702.T,Fujitsu Limited
+Nikkei 225,6674.T,GS Yuasa Corporation
+Nikkei 225,6501.T,"Hitachi, Ltd."
+Nikkei 225,6861.T,Keyence Corporation
+Nikkei 225,6971.T,Kyocera Corporation
+Nikkei 225,6920.T,Lasertec Corporation
+Nikkei 225,6479.T,MINEBEA MITSUMI Inc.
+Nikkei 225,6503.T,Mitsubishi Electric Corporation
+Nikkei 225,6981.T,"Murata Manufacturing Co., Ltd."
+Nikkei 225,6701.T,NEC Corporation
+Nikkei 225,6594.T,Nidec Corporation
+Nikkei 225,6703.T,"Oki Electric Industry Co., Ltd."
+Nikkei 225,6645.T,OMRON Corporation
+Nikkei 225,6752.T,Panasonic Holdings Corporation
+Nikkei 225,6723.T,Renesas Electronics Corporation
+Nikkei 225,7752.T,"Ricoh Company, Ltd."
+Nikkei 225,7735.T,"SCREEN Holdings Co., Ltd."
+Nikkei 225,6724.T,Seiko Epson Corporation
+Nikkei 225,6753.T,Sharp Corporation
+Nikkei 225,6758.T,Sony Group Corporation
+Nikkei 225,6976.T,"Taiyo Yuden Co., Ltd."
+Nikkei 225,6762.T,TDK Corporation
+Nikkei 225,8035.T,Tokyo Electron Limited
+Nikkei 225,6506.T,YASKAWA Electric Corporation
+Nikkei 225,6841.T,Yokogawa Electric Corporation
+Nikkei 225,9502.T,"Chubu Electric Power Company, Incorporated"
+Nikkei 225,9503.T,"The Kansai Electric Power Company, Incorporated"
+Nikkei 225,9501.T,"Tokyo Electric Power Company Holdings, Incorporated"
+Nikkei 225,1332.T,Nissui Corporation
+Nikkei 225,2802.T,"Ajinomoto Co., Inc."
+Nikkei 225,2502.T,"Asahi Group Holdings, Ltd."
+Nikkei 225,2914.T,Japan Tobacco Inc.
+Nikkei 225,2801.T,Kikkoman Corporation
+Nikkei 225,2503.T,"Kirin Holdings Company, Limited"
+Nikkei 225,2269.T,"Meiji Holdings Co., Ltd."
+Nikkei 225,2871.T,Nichirei Corporation
+Nikkei 225,2282.T,NH Foods Ltd.
+Nikkei 225,2002.T,Nisshin Seifun Group Inc.
+Nikkei 225,2501.T,Sapporo Holdings Limited
+Nikkei 225,2531.T,Takara Holdings Inc.
+Nikkei 225,9532.T,"Osaka Gas Co., Ltd."
+Nikkei 225,9531.T,"Tokyo Gas Co.,Ltd."
+Nikkei 225,5201.T,AGC Inc.
+Nikkei 225,5333.T,"NGK Insulators, Ltd."
+Nikkei 225,5214.T,"Nippon Electric Glass Co., Ltd."
+Nikkei 225,5202.T,"Nippon Sheet Glass Company, Limited"
+Nikkei 225,5232.T,"Sumitomo Osaka Cement Co., Ltd."
+Nikkei 225,5233.T,Taiheiyo Cement Corporation
+Nikkei 225,5301.T,"Tokai Carbon Co., Ltd."
+Nikkei 225,5332.T,Toto Ltd.
+Nikkei 225,8750.T,"Dai-ichi Life Holdings, Inc."
+Nikkei 225,8725.T,"MS&AD Insurance Group Holdings, Inc."
+Nikkei 225,8630.T,"Sompo Holdings, Inc."
+Nikkei 225,8795.T,"T&D Holdings, Inc."
+Nikkei 225,8766.T,"Tokio Marine Holdings, Inc."
+Nikkei 225,9147.T,"Nippon Express Holdings, Inc."
+Nikkei 225,9064.T,"Yamato Holdings Co., Ltd."
+Nikkei 225,6113.T,"Amada Co., Ltd."
+Nikkei 225,6367.T,"Daikin Industries,Ltd."
+Nikkei 225,6361.T,Ebara Corporation
+Nikkei 225,6305.T,"Hitachi Construction Machinery Co., Ltd."
+Nikkei 225,7004.T,Kanadevia Corporation
+Nikkei 225,7013.T,IHI Corporation
+Nikkei 225,5631.T,"The Japan Steel Works, Ltd."
+Nikkei 225,6473.T,JTEKT Corporation
+Nikkei 225,6301.T,Komatsu Ltd.
+Nikkei 225,6326.T,Kubota Corporation
+Nikkei 225,7011.T,"Mitsubishi Heavy Industries, Ltd."
+Nikkei 225,6471.T,NSK Ltd.
+Nikkei 225,6472.T,NTN Corporation
+Nikkei 225,6103.T,Okuma Corporation
+Nikkei 225,6302.T,"Sumitomo Heavy Industries, Ltd."
+Nikkei 225,6273.T,SMC Corporation
+Nikkei 225,9107.T,"Kawasaki Kisen Kaisha, Ltd."
+Nikkei 225,9104.T,"Mitsui O.S.K. Lines, Ltd."
+Nikkei 225,9101.T,Nippon Yusen Kabushiki Kaisha
+Nikkei 225,1605.T,Inpex Corporation
+Nikkei 225,5714.T,"Dowa Holdings Co., Ltd."
+Nikkei 225,5803.T,Fujikura Ltd.
+Nikkei 225,5801.T,"Furukawa Electric Co., Ltd."
+Nikkei 225,5711.T,Mitsubishi Materials Corporation
+Nikkei 225,5706.T,"Mitsui Mining & Smelting Co., Ltd."
+Nikkei 225,3436.T,Sumco Corporation
+Nikkei 225,5802.T,"Sumitomo Electric Industries, Ltd."
+Nikkei 225,5713.T,"Sumitomo Metal Mining Co., Ltd."
+Nikkei 225,8253.T,"Credit Saison Co., Ltd."
+Nikkei 225,8697.T,"Japan Exchange Group, Inc."
+Nikkei 225,8591.T,ORIX Corporation
+Nikkei 225,7832.T,BANDAI NAMCO Holdings Inc.
+Nikkei 225,7912.T,"Dai Nippon Printing Co., Ltd."
+Nikkei 225,7911.T,TOPPAN Holdings Inc.
+Nikkei 225,7951.T,Yamaha Corporation
+Nikkei 225,5020.T,"ENEOS Holdings, Inc."
+Nikkei 225,5019.T,"Idemitsu Kosan Co.,Ltd."
+Nikkei 225,4503.T,Astellas Pharma Inc.
+Nikkei 225,4519.T,"Chugai Pharmaceutical Co., Ltd."
+Nikkei 225,4568.T,"Daiichi Sankyo Company, Limited"
+Nikkei 225,4523.T,"Eisai Co., Ltd."
+Nikkei 225,4151.T,"Kyowa Kirin Co., Ltd."
+Nikkei 225,4578.T,"Otsuka Holdings Co., Ltd."
+Nikkei 225,4506.T,"Sumitomo Pharma Co., Ltd."
+Nikkei 225,4507.T,"Shionogi & Co., Ltd."
+Nikkei 225,4502.T,Takeda Pharmaceutical Company Limited
+Nikkei 225,7762.T,"Citizen Watch Co., Ltd."
+Nikkei 225,7741.T,HOYA Corporation
+Nikkei 225,4902.T,"Konica Minolta, Inc."
+Nikkei 225,7731.T,Nikon Corporation
+Nikkei 225,7733.T,Olympus Corporation
+Nikkei 225,4543.T,Terumo Corporation
+Nikkei 225,3863.T,"Nippon Paper Industries Co., Ltd."
+Nikkei 225,3861.T,Oji Holdings Corporation
+Nikkei 225,9022.T,Central Japan Railway Company
+Nikkei 225,9020.T,East Japan Railway Company
+Nikkei 225,9008.T,Keio Corporation
+Nikkei 225,9009.T,"Keisei Electric Railway Co., Ltd."
+Nikkei 225,9007.T,"Odakyu Electric Railway Co., Ltd."
+Nikkei 225,9001.T,"Tobu Railway Co., Ltd."
+Nikkei 225,9005.T,Tokyu Corporation
+Nikkei 225,9021.T,West Japan Railway Company
+Nikkei 225,8802.T,"Mitsubishi Estate Co., Ltd."
+Nikkei 225,8801.T,"Mitsui Fudosan Co., Ltd."
+Nikkei 225,8830.T,"Sumitomo Realty & Development Co., Ltd."
+Nikkei 225,8804.T,"Tokyo Tatemono Co., Ltd."
+Nikkei 225,3289.T,Tokyu Fudosan Holdings Corporation
+Nikkei 225,8267.T,"Aeon Co., Ltd."
+Nikkei 225,9983.T,"Fast Retailing Co., Ltd."
+Nikkei 225,3099.T,Isetan Mitsukoshi Holdings Ltd.
+Nikkei 225,3086.T,"J. Front Retailing Co., Ltd."
+Nikkei 225,8252.T,"Marui Group Co., Ltd."
+Nikkei 225,9843.T,"Nitori Holdings Co., Ltd."
+Nikkei 225,3382.T,"Seven & i Holdings Co., Ltd."
+Nikkei 225,8233.T,"Takashimaya Company, Limited"
+Nikkei 225,5108.T,Bridgestone Corporation
+Nikkei 225,5101.T,"The Yokohama Rubber Company, Limited"
+Nikkei 225,8601.T,Daiwa Securities Group Inc.
+Nikkei 225,8604.T,"Nomura Holdings, Inc."
+Nikkei 225,4751.T,"CyberAgent, Inc."
+Nikkei 225,2432.T,"DeNA Co., Ltd."
+Nikkei 225,4324.T,Dentsu Group Inc.
+Nikkei 225,6178.T,"Japan Post Holdings Co., Ltd."
+Nikkei 225,9766.T,Konami Group Corporation
+Nikkei 225,4689.T,LY Corporation
+Nikkei 225,4385.T,"Mercari, Inc."
+Nikkei 225,2413.T,"M3, Inc."
+Nikkei 225,3659.T,"NEXON Co., Ltd."
+Nikkei 225,7974.T,"Nintendo Co., Ltd."
+Nikkei 225,4661.T,"Oriental Land Co., Ltd."
+Nikkei 225,4755.T,"Rakuten Group, Inc."
+Nikkei 225,6098.T,"Recruit Holdings Co., Ltd."
+Nikkei 225,9735.T,"SECOM CO., LTD."
+Nikkei 225,9602.T,"Toho Co., Ltd."
+Nikkei 225,4704.T,Trend Micro Incorporated
+Nikkei 225,7012.T,"Kawasaki Heavy Industries, Ltd."
+Nikkei 225,5411.T,"JFE Holdings, Inc."
+Nikkei 225,5406.T,"Kobe Steel, Ltd."
+Nikkei 225,5401.T,Nippon Steel Corporation
+Nikkei 225,5541.T,"Pacific Metals Co., Ltd."
+Nikkei 225,3401.T,Teijin Limited
+Nikkei 225,3402.T,"Toray Industries, Inc."
+Nikkei 225,8001.T,ITOCHU Corporation
+Nikkei 225,8002.T,Marubeni Corporation
+Nikkei 225,8058.T,Mitsubishi Corporation
+Nikkei 225,8031.T,"Mitsui & Co., Ltd."
+Nikkei 225,2768.T,Sojitz Corporation
+Nikkei 225,8053.T,Sumitomo Corporation
+Nikkei 225,8015.T,Toyota Tsusho Corporation
+Nikkei 225,9301.T,Mitsubishi Logistics Corporation
+NIFTY 50,ADANIENT.NS,Adani Enterprises Limited
+NIFTY 50,ADANIPORTS.NS,Adani Ports and Special Economic Zone Limited
+NIFTY 50,APOLLOHOSP.NS,Apollo Hospitals Enterprise Limited
+NIFTY 50,ASIANPAINT.NS,Asian Paints Limited
+NIFTY 50,AXISBANK.NS,Axis Bank Limited
+NIFTY 50,BAJAJ-AUTO.NS,Bajaj Auto Limited
+NIFTY 50,BAJFINANCE.NS,Bajaj Finance Limited
+NIFTY 50,BAJAJFINSV.NS,Bajaj Finserv Ltd.
+NIFTY 50,BEL.NS,Bharat Electronics Limited
+NIFTY 50,BPCL.NS,Bharat Petroleum Corporation Limited
+NIFTY 50,BHARTIARTL.NS,Bharti Airtel Limited
+NIFTY 50,BRITANNIA.NS,Britannia Industries Limited
+NIFTY 50,CIPLA.NS,Cipla Limited
+NIFTY 50,COALINDIA.NS,Coal India Limited
+NIFTY 50,DRREDDY.NS,Dr. Reddy's Laboratories Limited
+NIFTY 50,EICHERMOT.NS,Eicher Motors Limited
+NIFTY 50,GRASIM.NS,Grasim Industries Limited
+NIFTY 50,HCLTECH.NS,HCL Technologies Limited
+NIFTY 50,HDFCBANK.NS,HDFC Bank Limited
+NIFTY 50,HDFCLIFE.NS,HDFC Life Insurance Company Limited
+NIFTY 50,HEROMOTOCO.NS,Hero MotoCorp Limited
+NIFTY 50,HINDALCO.NS,Hindalco Industries Limited
+NIFTY 50,HINDUNILVR.NS,Hindustan Unilever Limited
+NIFTY 50,ICICIBANK.NS,ICICI Bank Limited
+NIFTY 50,INDUSINDBK.NS,IndusInd Bank Limited
+NIFTY 50,INFY.NS,Infosys Limited
+NIFTY 50,ITC.NS,ITC Limited
+NIFTY 50,JSWSTEEL.NS,JSW Steel Limited
+NIFTY 50,KOTAKBANK.NS,Kotak Mahindra Bank Limited
+NIFTY 50,LT.NS,Larsen & Toubro Limited
+NIFTY 50,M&M.NS,Mahindra & Mahindra Limited
+NIFTY 50,MARUTI.NS,Maruti Suzuki India Limited
+NIFTY 50,NESTLEIND.NS,Nestlé India Limited
+NIFTY 50,NTPC.NS,NTPC Limited
+NIFTY 50,ONGC.NS,Oil and Natural Gas Corporation Limited
+NIFTY 50,POWERGRID.NS,Power Grid Corporation of India Limited
+NIFTY 50,RELIANCE.NS,Reliance Industries Limited
+NIFTY 50,SBILIFE.NS,SBI Life Insurance Company Limited
+NIFTY 50,SHRIRAMFIN.NS,Shriram Finance Limited
+NIFTY 50,SBIN.NS,State Bank of India
+NIFTY 50,SUNPHARMA.NS,Sun Pharmaceutical Industries Limited
+NIFTY 50,TCS.NS,Tata Consultancy Services Limited
+NIFTY 50,TATACONSUM.NS,Tata Consumer Products Limited
+NIFTY 50,TATAMOTORS.NS,Tata Motors Limited
+NIFTY 50,TATASTEEL.NS,Tata Steel Limited
+NIFTY 50,TECHM.NS,Tech Mahindra Limited
+NIFTY 50,TITAN.NS,Titan Company Limited
+NIFTY 50,TRENT.NS,Trent Limited
+NIFTY 50,ULTRACEMCO.NS,UltraTech Cement Limited
+NIFTY 50,WIPRO.NS,Wipro Limited
